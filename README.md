@@ -2,7 +2,9 @@
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning React and Node.JS
 - 💞️ I’m looking to collaborate on anything i can learn something :)
-- 📫 How to reach me : <a href="https://twitter.com/uruguaj">Twittwer @uruguaj</a>
+- 📫 How to reach me :</br>
+Twitter => <a href="https://twitter.com/uruguaj">@uruguaj</a>                                                        
+Discord => uruguaj (id:463257864715370523)
 
 <!---
 uruguaj/uruguaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
