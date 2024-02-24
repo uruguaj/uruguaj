@@ -10,7 +10,7 @@ Discord: uruguaj (id:463257864715370523)
 
 Let's connect and create something amazing together!
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@ee989009-ce3d-43f8-9765-cf1abf914d92/fc776a78-968b-4017-b183-77756565fde5.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@ee989009-ce3d-43f8-9765-cf1abf914d92/591d057c-52c9-4aee-a1dd-53e0ec4a0d84.png" /></a>
 
 <!---
 uruguaj/uruguaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
